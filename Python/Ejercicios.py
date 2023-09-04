@@ -5,21 +5,8 @@ def Saludar():
 
 Saludar()
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-def suma(a, b):
-    return a + b
-
-print(suma(2,2))
+def numeros():
+    num = 0
+    while num < 10:
+        print(num)
+        num += 1
