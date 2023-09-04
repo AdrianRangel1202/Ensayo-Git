@@ -10,3 +10,10 @@ def numeros():
     while num < 10:
         print(num)
         num += 1
+
+numeros()
+
+def suma(a, b):
+    print(a + b)
+
+suma(2, 2)
