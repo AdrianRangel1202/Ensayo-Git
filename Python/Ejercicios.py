@@ -12,3 +12,8 @@ def numeros():
         num += 1
 
 numeros()
+
+def suma(a, b):
+    print(a + b)
+
+suma(2, 2)
