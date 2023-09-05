@@ -22,3 +22,5 @@ def resta(a, b):
     print(a - b)
 
 resta(2, 2)
+
+print("Buenos dias")
